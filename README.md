@@ -3,7 +3,7 @@
 # Try the Web App 
 [try web app](https://cardamagepredictionbyzaidnaeem.streamlit.app/)
 
-![screenshot](gitimg.png)
+![screenshot](gitimg.jpg)
  I’m genuinely excited about this project! I trained a deep learning image classification model on 2,300 car damage photos to automatically identify the exact type of damage. My laptop nearly gave up during the training process—but it made it through, and the results were worth it.
 
 📊 Classes Predicted:
